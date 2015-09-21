@@ -8,12 +8,10 @@ public class Solution {
             if(nums[index] != nums[i]) {
                 nums[++index] = nums[i];
                 count = 1;
-            } else if (count ==2) {
-                
-            } else {
+            } else if (count == 1) {
                 nums[++index] = nums[i];
                 count = 2;
-            }
+            } 
         }
         
         return index + 1;
