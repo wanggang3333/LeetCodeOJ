@@ -1,4 +1,3 @@
-#提交出现错误: Memory Limit Exceeded，切片产生新的列表，以前的列表没有释放，造成内存溢出，请参照solution2
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, x):
