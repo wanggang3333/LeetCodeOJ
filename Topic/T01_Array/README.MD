@@ -10,11 +10,11 @@
 | 78. Subsets                       |  ✅  |  DFS    |
 | 79. Word Search                   |  ✅  |  DFS    |
 | 84. Largest Rectangle in Histogram|  ✅  |  Stack  |
-| 88. Merge Sorted Array            |  ❌  |         |
-| 90. Subsets II                    |  ❌  |         |
-| 126. Word Ladder II               |  ❌  |         |
-| 216. Combination Sum III          |  ❌  |         |
-| 287. Find the Duplicate Number    |  ❌  |         |
-| 907. Sum of Subarray Minimums     |  ❌  |         |
-| 969. Pancake Sorting              |  ❌  |         |
+| 88. Merge Sorted Array            |  ✅  |         |
+| 90. Subsets II                    |  ✅  | DFS |
+| 126. Word Ladder II               |  ✅  | BFS |
+| 216. Combination Sum III          |  ✅  | DFS |
+| 287. Find the Duplicate Number    |  ✅  |         |
+| 907. Sum of Subarray Minimums     |  ✅  |         |
+| 969. Pancake Sorting              |  ✅  | Sort |
 

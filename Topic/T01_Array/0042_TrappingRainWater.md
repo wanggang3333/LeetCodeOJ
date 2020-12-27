@@ -26,4 +26,32 @@ Output: 6
 
 ![](https://image.ibb.co/d6A2ZU/IMG-0139.jpg)
 
-每个数组里面的元素值可以想象成一个左右都有壁的圆柱筒。例如上图中左边的第二个元素 1，当前左边最大的元素是 2 ，所以 2 高度的水会装到 1 的上面(因为想象成了左右都有筒壁)。这道题的思路就是左指针从 0 开始往右扫，右指针从最右边开始往左扫。额外还需要 2 个变量分别记住左边最大的高度和右边最大高度。遍历扫数组元素的过程中，如果左指针的高度比右指针的高度小，就不断的移动左指针，否则移动右指针。循环的终止条件就是左右指针碰上以后就结束。只要数组中元素的高度比保存的局部最大高度小，就累加 res 的值，否则更新局部最大高度。最终解就是 res 的值。
+每个数组里面的元素值可以想象成一个左右都有壁的圆柱筒。这道题的思路就是左指针从 0 开始往右扫，右指针从最右边开始往左扫。额外还需要 2 个变量分别记住左边最大的高度和右边最大高度。遍历扫数组元素的过程中，如果左指针的高度比右指针的高度小，就不断的移动左指针，否则移动右指针。循环的终止条件就是左右指针碰上以后就结束。只要数组中元素的高度比保存的局部最大高度小，就累加 res 的值，否则更新局部最大高度。最终解就是 res 的值。
+
+## 解题
+
+
+```go
+func trap(height []int) int {
+	res, left, right, maxLeft, maxRight := 0, 0, len(height)-1, 0, 0
+	for left <= right {
+		if height[left] <= height[right] {
+			if height[left] > maxLeft {
+				maxLeft = height[left]
+			} else {
+				res += maxLeft - height[left]
+			}
+			left++
+		} else {
+			if height[right] >= maxRight {
+				maxRight = height[right]
+			} else {
+				res += maxRight - height[right]
+			}
+			right--
+		}
+	}
+	return res
+}
+
+```
