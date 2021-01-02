@@ -4,7 +4,6 @@
 | :---                              | ---- | ---- |
 | 98. Validate Binary Search Tree |  ❌  |    |
 | 99. Recover Binary Search Tree |  ❌  |    |
-| 84. Largest Rectangle in Histogram |  ❌  |    |
 | 101. Symmetric Tree |  ❌  |    |
 | 105. Construct Binary Tree from Preorder and Inorder Traversal |  ❌  |    |
 | 106. Construct Binary Tree from Inorder and Postorder Traversal |  ❌  |    |
