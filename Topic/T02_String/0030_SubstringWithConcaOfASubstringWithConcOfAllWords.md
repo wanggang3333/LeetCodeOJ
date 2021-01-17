@@ -63,7 +63,7 @@ func findSubstring(s string, words []string) []int {
 			i = i + length - 1
 		} else {
 			start++
-			i = start - 1
+			i = start - 1  // for循环会自动+1，i++
 			tmpCounter = copyMap(counter)
 		}
 	}
