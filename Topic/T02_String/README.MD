@@ -6,6 +6,6 @@
 | 30. Substring with Concatenation of All Words     |  ✅  |    |
 | 76. Minimum Window Substring                      |  ✅  | SliceWindow |
 | 93. Restore IP Addresses                          |  ✅  |  DFS |
-| 126. Word Ladder II                               |  ❌  | BFS |
-| 767. Reorganize String                            |  ❌  |    |
-| 842. Split Array into Fibonacci Sequence          |  ❌  |    |
+| 126. Word Ladder II                               |  ✅  | BFS |
+| 767. Reorganize String                            |  ✅  | PQ |
+| 842. Split Array into Fibonacci Sequence          |  ✅  |    |
