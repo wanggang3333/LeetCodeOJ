@@ -18,4 +18,4 @@
 | 763. Partition Labels |  ✅  |    |
 | 828. Unique Letter String |  ❌  |    |
 | 930. Binary Subarrays With Sum |  ✅  |    |
-| 992. Subarrays with K Different Integers |  ❌  |    |
+| 992. Subarrays with K Different Integers |  ✅  |    |
