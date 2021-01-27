@@ -16,6 +16,6 @@
 | 287. Find the Duplicate Number |  ✅  |    |
 | 567. Permutation in String |  ✅  |  SliceWindow  |
 | 763. Partition Labels |  ✅  |    |
-| 828. Unique Letter String |  ❌  |    |
+| 828. Unique Letter String |  ✅  |    |
 | 930. Binary Subarrays With Sum |  ✅  |    |
 | 992. Subarrays with K Different Integers |  ✅  |    |
