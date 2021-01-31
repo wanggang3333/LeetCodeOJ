@@ -2,8 +2,9 @@
 
 |          LeetCode                 | Done | Mark |
 | :---                              | ---- | ---- |
-| 42. Trapping Rain Water |  ❌  |    |
-| 71. Simplify Path |  ❌  |    |
-| 84. Largest Rectangle in Histogram |  ❌  |    |
-| 726. Number of Atoms |  ❌  |    |
-| 907. Sum of Subarray Minimums |  ❌  |    |
+| 42. Trapping Rain Water |  ✅  |   |
+| 71. Simplify Path |  ✅  |  stack  |
+| 84. Largest Rectangle in Histogram |  ✅  |  stack  |
+| 173. Binary Search Tree Iterator |  ✅  |  heap  |
+| 726. Number of Atoms |  ✅  | stack  |
+| 907. Sum of Subarray Minimums |  ✅  |  DP/stack  |
