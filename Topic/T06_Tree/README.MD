@@ -2,9 +2,9 @@
 
 |          LeetCode                 | Done | Mark |
 | :---                              | ---- | ---- |
-| 98. Validate Binary Search Tree |  ❌  |    |
+| 98. Validate Binary Search Tree |  ✅  | recursion   |
 | 99. Recover Binary Search Tree |  ❌  |    |
-| 101. Symmetric Tree |  ❌  |    |
+| 101. Symmetric Tree |  ✅  |    |
 | 105. Construct Binary Tree from Preorder and Inorder Traversal |  ❌  |    |
 | 106. Construct Binary Tree from Inorder and Postorder Traversal |  ❌  |    |
 | 114. Flatten Binary Tree to Linked List |  ❌  |    |
