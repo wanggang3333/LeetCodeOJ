@@ -3,7 +3,7 @@
 |          LeetCode                 | Done | Mark |
 | :---                              | ---- | ---- |
 | 37. Sudoku Solver |  ❌  |    |
-| 46. Permutations |  ❌  |    |
+| 46. Permutations |  ✅  |    |
 | 47. Permutations II |  ❌  |    |
 | 51. N-Queens |  ❌  |    |
 | 52. N-Queens II |  ❌  |    |
