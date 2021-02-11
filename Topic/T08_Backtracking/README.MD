@@ -8,7 +8,7 @@
 | 51. N-Queens |  ✅  |    |
 | 52. N-Queens II |  ❌  |    |
 | 77. Combinations |  ✅  |    |
-| 78. Subsets |  ❌  |    |
+| 78. Subsets |  ✅  |    |
 | 79. Word Search |  ❌  |    |
 | 90. Subsets II |  ❌  |    |
 | 93. Restore IP Addresses |  ❌  |    |
