@@ -11,7 +11,7 @@
 | 78. Subsets |  ✅  |    |
 | 79. Word Search |  ✅  |    |
 | 90. Subsets II |  ❌  |    |
-| 93. Restore IP Addresses |  ❌  |    |
+| 93. Restore IP Addresses |  ✅  |    |
 | 126. Word Ladder II |  ❌  |    |
 | 131. Palindrome Partitioning |  ❌  |    |
 | 211. Add and Search Word - Data structure design |  ❌  |    |
