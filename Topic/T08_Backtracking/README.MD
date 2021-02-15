@@ -18,6 +18,6 @@
 | 212. Word Search II |  ❌  |    |
 | 216. Combination Sum III |  ❌  |    |
 | 306. Additive Number |  ❌  |    |
-| 526. Beautiful Arrangement |  ❌  |    |
+| 526. Beautiful Arrangement |  ✅  |    |
 | 842. Split Array into Fibonacci Sequence |  ❌  |    |
 | 1079. Letter Tile Possibilities |  ❌  |    |
