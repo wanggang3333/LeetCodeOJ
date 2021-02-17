@@ -20,4 +20,4 @@
 | 306. Additive Number |  ❌  |    |
 | 526. Beautiful Arrangement |  ✅  |    |
 | 842. Split Array into Fibonacci Sequence |  ✅  |    |
-| 1079. Letter Tile Possibilities |  ❌  |    |
+| 1079. Letter Tile Possibilities |  ✅  |    |
