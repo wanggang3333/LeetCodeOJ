@@ -6,7 +6,7 @@
 | 46. Permutations |  ✅  |    |
 | 47. Permutations II |  ❌  |    |
 | 51. N-Queens |  ✅  |    |
-| 52. N-Queens II |  ❌  |    |
+| 52. N-Queens II |  ✅  |    |
 | 77. Combinations |  ✅  |    |
 | 78. Subsets |  ✅  |    |
 | 79. Word Search |  ✅  |    |
