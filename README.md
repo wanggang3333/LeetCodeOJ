@@ -11,8 +11,7 @@
 | [T04_LinkedList](https://github.com/wanggang3333/LeetCodeOJ/tree/master/Topic/T04_LinkedList)           |  ✅  |    |
 | [T05_Stack](https://github.com/wanggang3333/LeetCodeOJ/tree/master/Topic/T05_Stack)                |  ✅  |    |
 | [T06_Tree](https://github.com/wanggang3333/LeetCodeOJ/tree/master/Topic/T06_Tree)                 |  ✅  |    |
-| [T07_DynamicProgramming](https://github.com/wanggang3333/LeetCodeOJ/tree/master/Topic/)   |  ❌  |    |
-| [T07_DynamicProgramming](https://github.com/wanggang3333/LeetCodeOJ/tree/master/Topic/)   |  ❌  |    |
+| [T07_DynamicProgramming](https://github.com/wanggang3333/LeetCodeOJ/tree/master/Topic/T07_DynamicProgramming)   |  ❌  |    |
 | [T08_Backtracking](https://github.com/wanggang3333/LeetCodeOJ/tree/master/Topic/T08_Backtracking)         |  ❌  |    |
 | [T09_DepthFirstSearch](https://github.com/wanggang3333/LeetCodeOJ/tree/master/Topic/T09_DepthFirstSearch)     |  ❌  |    |
 | [T10_BreadthFirstSearch](https://github.com/wanggang3333/LeetCodeOJ/tree/master/Topic/T10_BreadthFirstSearch)   |  ❌  |    |
