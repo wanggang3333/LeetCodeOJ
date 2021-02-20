@@ -14,8 +14,8 @@
 | 93. Restore IP Addresses |  ✅  |    |
 | 126. Word Ladder II |  ✅  |    |
 | 131. Palindrome Partitioning |  ✅  |    |
-| 211. Add and Search Word - Data structure design |  ❌  |    |
-| 212. Word Search II |  ❌  |    |
+| 211. Add and Search Word - Data structure design |  ✅  |    |
+| 212. Word Search II |  ✅  |    |
 | 216. Combination Sum III |  ❌  |    |
 | 306. Additive Number |  ❌  |    |
 | 526. Beautiful Arrangement |  ✅  |    |
