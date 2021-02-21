@@ -2,7 +2,7 @@
 
 |          LeetCode                 | Done | Mark |
 | :---                              | ---- | ---- |
-| 37. Sudoku Solver |  ❌  |    |
+| 37. Sudoku Solver |  ✅  |    |
 | 46. Permutations |  ✅  |    |
 | 47. Permutations II |  ✅  |    |
 | 51. N-Queens |  ✅  |    |
@@ -16,8 +16,8 @@
 | 131. Palindrome Partitioning |  ✅  |    |
 | 211. Add and Search Word - Data structure design |  ✅  |    |
 | 212. Word Search II |  ✅  |    |
-| 216. Combination Sum III |  ❌  |    |
-| 306. Additive Number |  ❌  |    |
+| 216. Combination Sum III |  ✅  |    |
+| 306. Additive Number |  ✅  |    |
 | 526. Beautiful Arrangement |  ✅  |    |
 | 842. Split Array into Fibonacci Sequence |  ✅  |    |
 | 1079. Letter Tile Possibilities |  ✅  |    |

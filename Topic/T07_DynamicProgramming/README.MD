@@ -12,5 +12,5 @@
 | 392. Is Subsequence |  ✅  |    |
 | 416. Partition Equal Subset Sum |  ✅  |    |
 | 714. Best Time to Buy and Sell Stock with Transaction Fee |  ✅  |    |
-| 838. Push Dominoes |  ❌  |    |
+| 838. Push Dominoes |  ✅  |    |
 | 1025. Divisor Game |  ✅  |    |
