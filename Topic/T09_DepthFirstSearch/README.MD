@@ -2,7 +2,7 @@
 
 |          LeetCode                 | Done | Mark |
 | :---                              | ---- | ---- |
-| 98. Validate Binary Search Tree |  ❌  |    |
+| 98. Validate Binary Search Tree |  ✅  |    |
 | 99. Recover Binary Search Tree |  ❌  |    |
 | 101. Symmetric Tree |  ❌  |    |
 | 114. Flatten Binary Tree to Linked List |  ❌  |    |
