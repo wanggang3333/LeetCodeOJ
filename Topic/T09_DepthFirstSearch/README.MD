@@ -9,4 +9,4 @@
 | 124. Binary Tree Maximum Path Sum |  ❌  |    |
 | 207. Course Schedule |  ❌  |    |
 | 542. 01 Matrix |  ❌  |    |
-| 980. Unique Paths III |  ❌  |    |
+| 980. Unique Paths III |  ✅  |    |
