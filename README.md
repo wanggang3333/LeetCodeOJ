@@ -13,8 +13,8 @@
 | [T06_Tree](https://github.com/wanggang3333/LeetCodeOJ/tree/master/Topic/T06_Tree)                 |  ✅  |    |
 | [T07_DynamicProgramming](https://github.com/wanggang3333/LeetCodeOJ/tree/master/Topic/T07_DynamicProgramming)   |  ✅  |    |
 | [T08_Backtracking](https://github.com/wanggang3333/LeetCodeOJ/tree/master/Topic/T08_Backtracking)         |  ✅  |    |
-| [T09_DepthFirstSearch](https://github.com/wanggang3333/LeetCodeOJ/tree/master/Topic/T09_DepthFirstSearch)     |  ❌  |    |
-| [T10_BreadthFirstSearch](https://github.com/wanggang3333/LeetCodeOJ/tree/master/Topic/T10_BreadthFirstSearch)   |  ❌  |    |
+| [T09_DepthFirstSearch](https://github.com/wanggang3333/LeetCodeOJ/tree/master/Topic/T09_DepthFirstSearch)     |  ✅  |    |
+| [T10_BreadthFirstSearch](https://github.com/wanggang3333/LeetCodeOJ/tree/master/Topic/T10_BreadthFirstSearch)   |  ✅  |    |
 | [T11_BinarySearch](https://github.com/wanggang3333/LeetCodeOJ/tree/master/Topic/T11_BinarySearch)         |  ❌  |    |
 | [T12_Math](https://github.com/wanggang3333/LeetCodeOJ/tree/master/Topic/T12_Math)                 |  ❌  |    |
 | [T13_HashTable](https://github.com/wanggang3333/LeetCodeOJ/tree/master/Topic/T13_HashTable)            |  ❌  |    |
