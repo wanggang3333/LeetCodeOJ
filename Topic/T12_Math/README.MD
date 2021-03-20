@@ -2,7 +2,7 @@
 
 |          LeetCode                 | Done | Mark |
 | :---                              | ---- | ---- |
-| 326. Power of Three |  ❌  |    |
+| 326. Power of Three |  ✅  |    |
 | 357. Count Numbers with Unique Digits |  ❌  |    |
 | 628. Maximum Product of Three Numbers |  ❌  |    |
 | 976. Largest Perimeter Triangle |  ❌  |    |
