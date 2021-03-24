@@ -2,9 +2,9 @@
 
 |          LeetCode                 | Done | Mark |
 | :---                              | ---- | ---- |
-| 75. Sort Colors |  ❌  |    |
-| 147. Insertion Sort List |  ❌  |    |
-| 148. Sort List |  ❌  |    |
+| 75. Sort Colors |  ✅  |    |
+| 147. Insertion Sort List |  ✅  |    |
+| 148. Sort List |  ✅  |    |
 | 164. Maximum Gap |  ❌  |    |
 | 179. Largest Number |  ❌  |    |
 | 220. Contains Duplicate III |  ❌  |    |
