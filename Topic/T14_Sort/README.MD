@@ -8,7 +8,7 @@
 | 164. Maximum Gap |  ✅  |    |
 | 179. Largest Number |  ✅  |    |
 | 220. Contains Duplicate III |  ✅  |    |
-| 324. Wiggle Sort II |  ❌  |    |
+| 324. Wiggle Sort II |  ✅  |    |
 | 767. Reorganize String |  ✅  |    |
 | 969. Pancake Sorting |  ✅  |    |
 | 1054. Distant Barcodes |  ✅  |    |

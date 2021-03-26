@@ -2,7 +2,7 @@
 
 |          LeetCode                 | Done | Mark |
 | :---                              | ---- | ---- |
-| 78. Subsets |  ❌  |    |
+| 78. Subsets |  ✅  |    |
 | 137. Single Number II |  ❌  |    |
 | 169. Majority Element |  ❌  |    |
 | 190. Reverse Bits |  ❌  |    |
